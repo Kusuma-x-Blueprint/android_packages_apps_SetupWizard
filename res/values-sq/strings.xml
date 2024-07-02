@@ -50,7 +50,7 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Thirrje emergjente</string>
     <string name="accessibility_settings">Cilësimet e aksesueshmërisë</string>
-    <string name="setup_services">Funksionet e LineageOS</string>
+    <string name="setup_services">Funksionet e KusumaOS</string>
     <string name="services_pp_explanation">Këto shërbime punojnë për ju për të zgjeruar aftësitë e pajisjes tuaj. Të dhënat do të përdoren në përputhje me <xliff:g id="name" example="LineageOS">%1$s</xliff:g> politikës së privatësisë</string>
     <string name="services_find_privacy_policy">Ju mund të lexoni politikën e privatësisë në një pajisje tjetër duke vizituar  <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
     <string name="services_help_improve_cm">Ndihmo në përmirësimin e <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
@@ -78,10 +78,10 @@
     <string name="intro_restore_title">Rikthe aplikacionet dhe të dhënat</string>
     <string name="intro_restore_subtitle">Nëse keni një kopje rezervë nga pajisja juaj e fundit <xliff:g id="name" example="LineageOS">%s</xliff:g>, mund ta rivendosni këtu.</string>
     <string name="intro_restore_button">Rimerr nga kopja rezervë</string>
-    <string name="update_recovery_title">Përditësoni rikuperimin e Lineage</string>
-    <string name="update_recovery_description">Përditëson Rikuperimin e Lineage në boot-in e parë pas çdo përditësimi.</string>
+    <string name="update_recovery_title">Përditësoni rikuperimin e Kusuma</string>
+    <string name="update_recovery_description">Përditëson Rikuperimin e Kusuma në boot-in e parë pas çdo përditësimi.</string>
     <string name="update_recovery_warning">Rikuperimi do të përditësohet sapo të keni mbaruar konfigurimin. Nëse dëshironi ta mbani të paprekur, mbylleni këtë veçori.</string>
-    <string name="update_recovery_setting">Përditësoni rikuperimin Lineage krahas OS</string>
+    <string name="update_recovery_setting">Përditësoni rikuperimin Kusuma krahas OS</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Lundrimi</string>
     <string name="navigation_summary">Zgjidhni metodën e preferuar të navigimit</string>

@@ -50,7 +50,7 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Apel de urgenţă</string>
     <string name="accessibility_settings">Setări de accesibilitate</string>
-    <string name="setup_services">Caracteristici LineageOS</string>
+    <string name="setup_services">Caracteristici KusumaOS</string>
     <string name="services_pp_explanation">Aceste servicii lucrează pentru dvs. pentru a extinde capabilitățile dispozitivului. Datele vor fi utilizate în concordanță cu politica de confidențialitate a <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
     <string name="services_find_privacy_policy">Puteți citi politica de confidențialitate pe un alt dispozitiv accesând <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
     <string name="services_help_improve_cm">Ajutați la îmbunătățirea <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
@@ -78,10 +78,10 @@
     <string name="intro_restore_title">Restabiliți aplicațiile și datele</string>
     <string name="intro_restore_subtitle">Dacă aveţi o copie de rezervă de pe ultimul dispozitiv <xliff:g id="name" example="LineageOS">%s</xliff:g>, îl puteţi restaura aici.</string>
     <string name="intro_restore_button">Restaurează din backup</string>
-    <string name="update_recovery_title">Actualizează Lineage Recovery</string>
-    <string name="update_recovery_description">Actualizează Lineage Recovery la prima pornire după fiecare actualizare.</string>
+    <string name="update_recovery_title">Actualizează Kusuma Recovery</string>
+    <string name="update_recovery_description">Actualizează Kusuma Recovery la prima pornire după fiecare actualizare.</string>
     <string name="update_recovery_warning">Meniul de recuperare va fi actualizat imediat ce terminați configurarea. Dacă doriți să îl păstrați intact, dezactivați această caracteristică.</string>
-    <string name="update_recovery_setting">Actualizați Lineage Recovery alături de OS</string>
+    <string name="update_recovery_setting">Actualizați Kusuma Recovery alături de OS</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navigare</string>
     <string name="navigation_summary">Alegeți metoda preferată de navigare</string>

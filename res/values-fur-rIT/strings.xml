@@ -50,7 +50,7 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Clamade di emergjence</string>
     <string name="accessibility_settings">Impostazions di acès facilitât</string>
-    <string name="setup_services">Funzionalitâts di LineageOS</string>
+    <string name="setup_services">Funzionalitâts di KusumaOS</string>
     <string name="services_pp_explanation">Chescj servizis a funzionin par slargjâ lis funzionalitâts dal to dispositîf. I dâts a vignaran doprâts in conformitât cu la informative su la riservatece di <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
     <string name="services_find_privacy_policy">Tu puedis lei la informative su la riservatece suntun altri dispositîf visitant <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
     <string name="services_help_improve_cm">Jude a miorâ <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
@@ -78,10 +78,10 @@
     <string name="intro_restore_title">Ripristine aplicazions e dâts</string>
     <string name="intro_restore_subtitle">Se tu âs un backup di un altri dispositîf cun <xliff:g id="name" example="LineageOS">%s</xliff:g>, tu puedis ripristinâlu cumò.</string>
     <string name="intro_restore_button">Ripristine dal backup</string>
-    <string name="update_recovery_title">Inzorne Recovery di Lineage</string>
-    <string name="update_recovery_description">Al inzorne il Recovery di Lineage al prin inviament sucessîf di ogni inzornament.</string>
+    <string name="update_recovery_title">Inzorne Recovery di Kusuma</string>
+    <string name="update_recovery_description">Al inzorne il Recovery di Kusuma al prin inviament sucessîf di ogni inzornament.</string>
     <string name="update_recovery_warning">Recovery al vignarà inzornât a pene che tu finissis la configurazion. Se tu desideris tignîlu intat, disative cheste funzionalitât.</string>
-    <string name="update_recovery_setting">Inzorne il Recovery di Lineage adun cul SO</string>
+    <string name="update_recovery_setting">Inzorne il Recovery di Kusuma adun cul SO</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navigazion</string>
     <string name="navigation_summary">Sielç il metodi di navigazion preferît</string>

@@ -18,4 +18,6 @@
     <string name="face_and_fingerprint_setup_title">Face and/or fingerprint setup</string>
     <string name="face_and_fingerprint_setup_summary">To use your face and/or fingerprint to unlock your screen, you\'ll need to:</string>
     <string name="face_and_fingerprint_setup_add_face_and_fingerprint">Add your face and/or fingerprint</string>
+
+    <string name="features_explanation">These features work for you to extend the capabilities of your device</string>
 </resources>

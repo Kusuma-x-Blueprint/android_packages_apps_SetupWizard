@@ -50,7 +50,7 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> – <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Tísňové volání</string>
     <string name="accessibility_settings">Nastavení přístupnosti</string>
-    <string name="setup_services">LineageOS funkce</string>
+    <string name="setup_services">KusumaOS funkce</string>
     <string name="services_pp_explanation">Tyto služby rozšiřují funkce vašeho zařízení. Data budou použita v souladu se zásadami ochrany osobních údajů <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
     <string name="services_find_privacy_policy">Zásady ochrany osobních údajů si můžete přečíst na jiném zařízení navštívením odkazu <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
     <string name="services_help_improve_cm">Pomozte vylepšit <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
@@ -78,10 +78,10 @@
     <string name="intro_restore_title">Obnovit aplikace a\u00a0data</string>
     <string name="intro_restore_subtitle">Jestliže máte zálohu z předešlého <xliff:g id="name" example="LineageOS">%s</xliff:g> zařízení, můžete ji obnovit zde.</string>
     <string name="intro_restore_button">Obnovit ze zálohy</string>
-    <string name="update_recovery_title">Aktualizovat Lineage recovery</string>
-    <string name="update_recovery_description">Aktualizace Lineage recovery při prvním spuštění po každé aktualizaci</string>
+    <string name="update_recovery_title">Aktualizovat Kusuma recovery</string>
+    <string name="update_recovery_description">Aktualizace Kusuma recovery při prvním spuštění po každé aktualizaci</string>
     <string name="update_recovery_warning">Oddíl recovery bude aktualizován ihned poté, co dokončíte nastavení. Vypněte tuto funkci, jestliže si přejete ponechat oddíl nezměněný.</string>
-    <string name="update_recovery_setting">Aktualizovat Lineage recovery společně s OS</string>
+    <string name="update_recovery_setting">Aktualizovat Kusuma recovery společně s OS</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navigace</string>
     <string name="navigation_summary">Zvolte preferovanou metodu navigace</string>

@@ -50,7 +50,7 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">緊急電話</string>
     <string name="accessibility_settings">無障礙設定</string>
-    <string name="setup_services">LineageOS 功能</string>
+    <string name="setup_services">KusumaOS 功能</string>
     <string name="services_pp_explanation">這些服務可協助您強化裝置的功能。資料將會根據 <xliff:g id="name" example="LineageOS">%1$s</xliff:g> 的隱私權政策使用。</string>
     <string name="services_find_privacy_policy">您可以透過在其他裝置上造訪 <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g> 來閱讀隱私權政策</string>
     <string name="services_help_improve_cm">協助改善 <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
@@ -78,10 +78,10 @@
     <string name="intro_restore_title">恢復應用程式和資料</string>
     <string name="intro_restore_subtitle">如果您之前使用 <xliff:g id="name" example="LineageOS">%s</xliff:g> 設備並有進行備份，您現在可以在這裡將它還原。</string>
     <string name="intro_restore_button">從備份還原</string>
-    <string name="update_recovery_title">更新 Lineage Recovery</string>
-    <string name="update_recovery_description">每次更新後，在第一次啟動時更新 Lineage Recovery。</string>
+    <string name="update_recovery_title">更新 Kusuma Recovery</string>
+    <string name="update_recovery_description">每次更新後，在第一次啟動時更新 Kusuma Recovery。</string>
     <string name="update_recovery_warning">一旦安裝完成，Recovery 就會更新。如果您希望保持原樣，請停用此功能。</string>
-    <string name="update_recovery_setting">與系統一起更新 Lineage Recovery</string>
+    <string name="update_recovery_setting">與系統一起更新 Kusuma Recovery</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">導航欄</string>
     <string name="navigation_summary">選擇首選的導航方式</string>

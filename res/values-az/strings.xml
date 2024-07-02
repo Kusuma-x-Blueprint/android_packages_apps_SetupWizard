@@ -50,7 +50,7 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Fövqəladə hal zəngləri</string>
     <string name="accessibility_settings">Əlçatımlılıq ayarları</string>
-    <string name="setup_services">LineageOS özəllikləri</string>
+    <string name="setup_services">KusumaOS özəllikləri</string>
     <string name="services_pp_explanation">Bu xidmətlər cihazınızın imkanlarını artırır. Datalar, <xliff:g id="name" example="LineageOS">%1$s</xliff:g>un gizlilik siyasətinə uyğun olaraq istifadə ediləcək.</string>
     <string name="services_find_privacy_policy">Gizlilik siyasətini fərqli cihazda <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g> ünvanını ziyarət edərək oxuya bilərsiniz</string>
     <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g>u təkmilləşdirməyə kömək edin</string>
@@ -78,10 +78,10 @@
     <string name="intro_restore_title">Tətbiqləri və datanı bərpa et</string>
     <string name="intro_restore_subtitle">Son <xliff:g id="name" example="LineageOS">%s</xliff:g> cihazınızda bir nüsxəniz varsa, burada bərpa edə bilərsiniz.</string>
     <string name="intro_restore_button">Nüsxədən bərpa et</string>
-    <string name="update_recovery_title">Lineage Geri qaytarma Rejimini Güncəllə</string>
-    <string name="update_recovery_description">Hər güncəlləmədən sonrakı ilk açılışda Lineage Geri qaytarma rejimini güncəlləyir.</string>
+    <string name="update_recovery_title">Kusuma Geri qaytarma Rejimini Güncəllə</string>
+    <string name="update_recovery_description">Hər güncəlləmədən sonrakı ilk açılışda Kusuma Geri qaytarma rejimini güncəlləyir.</string>
     <string name="update_recovery_warning">Quraşdırma bitən kimi Geri qaytarma rejimi güncəllənəcək. Sağlam qalmasını istəyirsinizsə, bu özəlliyi sıradan çıxardın.</string>
-    <string name="update_recovery_setting">ƏS ilə birgə Lineage Geri qaytarma rejimini də güncəllə</string>
+    <string name="update_recovery_setting">ƏS ilə birgə Kusuma Geri qaytarma rejimini də güncəllə</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Hərəkət</string>
     <string name="navigation_summary">Tərcih edilən naviqasiya üsulunu seçin</string>
