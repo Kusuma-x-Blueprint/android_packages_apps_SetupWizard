@@ -50,7 +50,7 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">緊急電話</string>
     <string name="accessibility_settings">無障礙設定</string>
-    <string name="setup_services">KusumaOS 功能</string>
+    <string name="setup_services">Kusuma 功能</string>
     <string name="services_pp_explanation">這些服務可協助您強化裝置的功能。資料將會根據 <xliff:g id="name" example="LineageOS">%1$s</xliff:g> 的隱私權政策使用。</string>
     <string name="services_find_privacy_policy">您可以透過在其他裝置上造訪 <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g> 來閱讀隱私權政策</string>
     <string name="services_help_improve_cm">協助改善 <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
